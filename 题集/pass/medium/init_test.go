@@ -7,7 +7,7 @@ import (
 	"testing"
 )
 
-var folderName string = "merge-two-sorted-lists"
+var folderName string = "mplus-one"
 
 func Test_init(t *testing.T) {
 

@@ -7,8 +7,8 @@ import (
 	"testing"
 )
 
-var num = "58"
-var folderName string = "length-of-last-word"
+var num = "70"
+var folderName string = "climbing-stairs"
 
 func Test_init(t *testing.T) {
 
