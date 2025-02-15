@@ -7,8 +7,8 @@ import (
 	"testing"
 )
 
-var num = "70"
-var folderName string = "climbing-stairs"
+var num = "2799"
+var folderName string = "count-complete-subarrays-in-an-array"
 
 func Test_init(t *testing.T) {
 
